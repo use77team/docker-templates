@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-08
 - Consolidated duplicate helper functions
+
+## 2026-07-08
+- Fixed minor edge case in input handling
