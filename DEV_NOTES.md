@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-01
 - Added inline documentation for core functions
 - Addressed feedback from self code review
+
+## 2026-07-08
+- Consolidated duplicate helper functions
