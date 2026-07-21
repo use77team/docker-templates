@@ -23,3 +23,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-07-22
 - Verified API endpoint response schema
 - Improved log message formatting
+
+## 2026-07-22
+- Updated .gitignore to exclude build artifacts
+- Wrote notes on upcoming feature design
+- Consolidated duplicate helper functions
