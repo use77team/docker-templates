@@ -33,3 +33,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Addressed feedback from self code review
 - Added basic retry logic for network requests
+
+## 2026-07-29
+- Added CONTRIBUTING.md stub
