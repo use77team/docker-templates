@@ -41,3 +41,6 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Investigated performance bottleneck, noted findings
 - Updated .gitignore to exclude build artifacts
+
+## 2026-08-05
+- Added basic usage examples to README
