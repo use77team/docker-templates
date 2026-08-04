@@ -44,3 +44,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-05
 - Added basic usage examples to README
+
+## 2026-08-05
+- Removed unused variable declarations
+- Cross-checked behaviour against spec
