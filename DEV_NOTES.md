@@ -36,3 +36,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-07-29
 - Added CONTRIBUTING.md stub
+
+## 2026-08-05
+- Fixed minor edge case in input handling
+- Investigated performance bottleneck, noted findings
+- Updated .gitignore to exclude build artifacts
