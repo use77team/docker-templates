@@ -48,3 +48,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-05
 - Removed unused variable declarations
 - Cross-checked behaviour against spec
+
+## 2026-08-26
+- Added .editorconfig for consistent formatting
