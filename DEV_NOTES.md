@@ -55,3 +55,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-08-26
 - Improved error handling in edge cases
 - Pinned dependency versions for reproducibility
+
+## 2026-09-09
+- Updated license year
+- Removed unused variable declarations
