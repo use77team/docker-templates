@@ -78,3 +78,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Added healthcheck endpoint stub
 - Drafted initial implementation plan for v2
+
+## 2026-09-30
+- Removed unused variable declarations
+- Pinned dependency versions for reproducibility
