@@ -74,3 +74,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-23
 - Added inline documentation for core functions
 - Documented config options
+
+## 2026-09-30
+- Added healthcheck endpoint stub
+- Drafted initial implementation plan for v2
