@@ -91,3 +91,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-11-04
 - Updated dependencies to latest stable versions
 - Added healthcheck endpoint stub
+
+## 2026-11-04
+- Resolved deprecation warnings
